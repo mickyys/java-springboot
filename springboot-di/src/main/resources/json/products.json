@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Lupe Tokita",
+        "price": 7785
+    },
+    {
+        "id": 2,
+        "name": "Monti Tokita",
+        "price": 9990
+    },
+    {
+        "id": 3,
+        "name": "Televisor Tokita",
+        "price": 9050
+    },
+    {
+        "id": 4,
+        "name": "Peluche Tokita",
+        "price": 62990
+    },
+    {
+        "id": 5,
+        "name": "Almohada",
+        "price": 990
+    }
+]
